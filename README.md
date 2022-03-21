@@ -1,7 +1,7 @@
 Hi 👋 My name is Guillermo Lazo 
 ===============================  
 
-Test Automation Engineer/Full Stack Developer (in progress...) 
+Test Automation Engineer/Full Stack Developer (soon...) 
 --------------------------------------------------------------  
 
 Test Automation Engineer with 11 years of experience designing, developing and implementing test plans, test cases and test process. Experience creating automation frameworks from scratch, implementing Page Object Model as design pattern along with continuous integration. Ability to work in agile environments. Currently getting new skills as Full Stack Developer.  
