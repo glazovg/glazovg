@@ -8,7 +8,7 @@ Test Automation Engineer with 11 years of experience designing, developing and i
 * 🌍  I'm based in Mexico, Mexico City 
 * ✉️  You can contact me at [glazovg@gmail.com](mailto:glazovg@gmail.com) 
 * 🧠  I'm learning new dev and testing technologies 
-* 🤝  I'm open to collaborating on any test automation projects 
+* 🤝  I'm open to collaborating on any dev and test automation projects 
 * ⚡  Test Automation!? I Guess You Guys Aren’t Ready For That Yet. But Your Kids Are Gonna Love It.
 
 <a href="https://www.github.com/glazovg" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/glazovg?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
